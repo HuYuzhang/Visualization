@@ -1,0 +1,16 @@
+考虑一下我需要选取什么数据
+
+不同国家平均身高
+
+大洲 国家名字 主要人种（黑白黄） 南北半球
+
+
+
+男性平均身高 女性平均身高 男性平均寿命 女性平均寿命
+
+
+[*] File Description
+
+filter_height.py: format the original height.txt
+
+filter_life.py: format the original life.txt
